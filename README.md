@@ -60,15 +60,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Sample Visualizations
 
-> ![Rating Distribution](images/rating_distribution.png)
-> *IMDb Rating Distribution*
-
-> ![Genre Breakdown](images/genre_bar_chart.png)
-> *Top Genres by Frequency*
-
----
 
 ## 📂 Dataset Source
 
