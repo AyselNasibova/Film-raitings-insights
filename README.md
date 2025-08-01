@@ -36,10 +36,6 @@ films-analysis/
 ├── films_analiz.ipynb          # Jupyter Notebook with full EDA
 ├── dataset/                    # (Optional) Folder for CSV file
 │   └── imdb_top_films.csv      # Original or processed dataset
-├── images/                     # Saved visualizations
-│   ├── rating_distribution.png
-│   ├── genre_bar_chart.png
-│   └── release_year_trend.png
 ├── README.md                   # Project documentation (this file)
 └── requirements.txt            # Python packages used
 ```
